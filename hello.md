@@ -8,9 +8,5 @@
 <font face="微软雅黑">北国风光</font>
 
 
-Create new file
+$(x^2 + x^y )^{x^y}+ x_1^2= y_1 - y_2^{x_1-y_1^2}$ 
 
-\begin{equation} a^2+b^2=c^2 \end{equation}
-
-$f(x) = sinx$ 11  
-$$f(x)=sinx$$
